@@ -11,11 +11,12 @@ Professional tech savvy self-taught through Harvards CS50 Computer Science & CS5
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/017bc4e3-7e77-48ba-8f15-ba56b53fa8a5)
 
 🖱️ Technologies
+
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/a4807574-47ec-40c7-aa80-36031a3217e2)
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/d152e422-67be-42df-9fd7-4ab6ac98c75b)
-![image](https://github.com/Thato-B/Thatob/assets/67222722/56857ac0-e2d1-4e47-bb05-08c5185f2959)
 
 ⚙️ Tools
+
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/72974587-fd36-4dcf-bd1a-ea5d9d25661b)
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/3141acaa-f1ee-475f-b105-f583d4180599)
 ![image](https://github.com/Thato-B/Thatob/assets/67222722/c5d4f2e6-52c9-49b9-b33a-0614f7c69a3d)
